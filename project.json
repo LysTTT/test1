@@ -1,0 +1,44 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "[h2]A quiet, rain-soaked mountain valley somewhere in East Asia. Thick fog settles at the base of the cliffs, slowly swallowing the curved roof of an old temple below. No sun — just grey skies, damp moss, and the soft sound of rain.[/h2]\n\n[h1][b]Features:[/b][/h1]\n[list]\n[*][b]Animated fog[/b]\n[*][b]Rain with ambient sound (can be muted in audio settings)[/b]\n[*][b]Falling leaves and an occasional birds crossing the scene[/b]\n[*][b]Rare lightning flashes across the sky with thunder sound[/b]\n[*][b]Minimalist digital clock with a frosted-glass effect, inspired by the iOS lock screen[/b]\n[/list]\n\nSupports 16:9, 16:10, and 21:9 displays (including 4K)\nPerformance: ~145 MB VRAM, smooth FPS, low–medium GPU usage\n\n[h2]My another wallpaper:[/h2]\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3742723032\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=3751352064\n\n#japan #asia #mountains #nature #temple #ambient #rain #fog",
+	"file" : "scene.json",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"_24hformat" : 
+			{
+				"index" : 1,
+				"order" : 101,
+				"text" : "24h format",
+				"type" : "bool",
+				"value" : false
+			},
+			"clock" : 
+			{
+				"index" : 0,
+				"order" : 100,
+				"text" : "Clock",
+				"type" : "bool",
+				"value" : true
+			},
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.62353 0.65490 0.69020"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"ratingsex" : "none",
+	"ratingviolence" : "none",
+	"tags" : [ "Nature" ],
+	"title" : "Asian Temple in the Mountains",
+	"type" : "scene",
+	"version" : 3,
+	"visibility" : "public",
+	"workshopid" : "3750813609",
+	"workshopurl" : "steam://url/CommunityFilePage/3750813609"
+}
